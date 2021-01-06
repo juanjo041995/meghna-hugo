@@ -1,4 +1,4 @@
-baseURL = "https://mt-test.netlify.com"
+baseURL = "https://mt-testt.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
