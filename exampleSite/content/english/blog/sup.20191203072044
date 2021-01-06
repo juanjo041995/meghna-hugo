@@ -1,9 +1,9 @@
 +++
 author = "Juan Perez"
 date = 2021-01-13T03:00:00Z
-description = ""
-image = ""
-image_webp = ""
+description = "hola que tal"
+image = "/images/portfolio/portfolio-8.jpg"
+image_webp = "/images/portfolio/portfolio-7.webp"
 title = "Sup"
 
 +++
